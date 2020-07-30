@@ -1,0 +1,2 @@
+# What are controllers?
+Controllers will handle the http methods given to the backend. Http methods should not contain any business logic but should pass data to services where the business logic will be handled.

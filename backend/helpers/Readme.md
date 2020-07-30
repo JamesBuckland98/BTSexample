@@ -1,0 +1,2 @@
+# What are helpers?
+Helpers are functions that can be used that are not tied down to specific services. One example may be a validation method for checking if a name is blank or contains x number of characters. 

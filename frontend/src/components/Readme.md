@@ -1,0 +1,2 @@
+# What are components
+Components can be functions or classes that React uses to load the front end view. Component are great as they can be loaded and unloaded onto a page as well as reused across multiple pages. 

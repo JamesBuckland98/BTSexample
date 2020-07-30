@@ -1,0 +1,2 @@
+# What are classes?
+Classes are used to map out default functions that can be inherited by other classes. They are also used to create data transfer objects to help keep data consistent through transit. 

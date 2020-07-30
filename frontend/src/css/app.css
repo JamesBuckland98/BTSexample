@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding-top: 10%;
+    background-color:#3D0670;
+    color: white;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+h3{
+    text-align: center;
+}
+div {
+    display: table;
+    margin: 0 auto;
+}
+input, label {
+    /* 
+    display:block;
+     */
+    display:table;
+    margin:0 auto;
+    font-size: medium;
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
+span{
+    display:table;
+    margin:0 auto;
+}
+button {
+    text-align:center;
+    margin-left: 22%;
+    margin-top: 5%;
+    font-size: medium;
+    width: 50%;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

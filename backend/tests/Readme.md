@@ -1,0 +1,2 @@
+# What are tests?
+Tests are used to check that functions give expected result. These tests are using PHPUnit as a framework to run tests. see https://phpunit.readthedocs.io/en/9.2/index.html for more information.
